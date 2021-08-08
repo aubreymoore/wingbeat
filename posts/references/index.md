@@ -14,3 +14,9 @@
 * [Basic Sound Processing in Python | SciPy 2015 | Allen Downey](https://www.youtube.com/watch?v=0ALKGR0I5MA)
 
 * [Let's Build an Audio Spectrum Analyzer in Python! (pt. 1) the waveform viewer.](https://www.youtube.com/watch?v=AShHJdSIxkY)
+
+* [Jupyter Lab on Raspberry PI](https://medium.com/analytics-vidhya/jupyter-lab-on-raspberry-pi-22876591b227)
+
+* [VNC: Remote access a Raspberry Pi](https://magpi.raspberrypi.org/articles/vnc-raspberry-pi)
+
+* [Working with Audio Data for Machine Learning in Python](https://heartbeat.fritz.ai/working-with-audio-signals-in-python-6c2bd63b2daf)
