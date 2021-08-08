@@ -1,0 +1,7 @@
+Moore A, Miller JR, Tabashnik BE, Gage SH. 1986. Automated identification of flying insects by analysis of wingbeat frequencies. J Econ Entomol.;79:1703–6. 
+Moore A, Apperson C, McLaughlin J, Kirsch P. Automated classification of female Culex pipiens (Diptera: Culicidae) and Cx. quinquefasciatus from optically sensed wingbeat waveforms. Journal of Medical Entomology. In Preparation; 
+Moore A, Miller RH. Automated Identification of Optically Sensed Aphid (Homoptera: Aphidae) Wingbeat Waveforms. Ann Entomol Soc Am. 2002;95(1):1–8. 
+Moore A. Automated detection and recording of mosquitoes flying through eaves of an African village hut. [cited 2021 May 19]; Available from: https://www.academia.edu/48353328/Automated_detection_and_recording_of_mosquitoes_flying_through_eaves_of_an_African_village_hut
+Moore A, Apperson C, McLaughlin J, Kirsch P, Czokajlo D. Automated classification of morphologically identical mosquito sibling species using wingbeat harmonics. In: Entomological Society of America Annual Meeting [Internet]. San Diego; 2007. Available from: http://guaminsects.net/anr/sites/default/files/San Diego.pdf 
+Moore A. Artificial Neural network trained to identify mosquitoes in flight. Journal of Insect Behavior. 1990;4(3):391–6.
+
